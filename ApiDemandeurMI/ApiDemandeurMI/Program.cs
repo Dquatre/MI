@@ -12,7 +12,6 @@ namespace ApiDemandeurMI
     {
         public static void Main(string[] args)
         {
-
             var builder = WebApplication.CreateBuilder(args);
             var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
